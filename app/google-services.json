@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "779886254106",
+    "firebase_url": "https://trackapp-245504.firebaseio.com",
+    "project_id": "trackapp-245504",
+    "storage_bucket": "trackapp-245504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779886254106:android:66b20578ffa020d1",
+        "android_client_info": {
+          "package_name": "anupam.com.locationtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779886254106-ds8fpg34ud0fgpkami3ln0avcpvonii8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anupam.com.locationtracking",
+            "certificate_hash": "c2e96df98691131933241c4be57ed0dd37ba0ee3"
+          }
+        },
+        {
+          "client_id": "779886254106-q7dshs93m3k21l1te56hhqeqea64curd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjVyo3qqcZqlucSooOdSXMKoa1P2TiXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779886254106-q7dshs93m3k21l1te56hhqeqea64curd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779886254106:android:d55217ed38e89ed6",
+        "android_client_info": {
+          "package_name": "anupam.com.realtimelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779886254106-3fe8grleah8o8edc83cep6ck9o2c9854.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anupam.com.realtimelocation",
+            "certificate_hash": "c2e96df98691131933241c4be57ed0dd37ba0ee3"
+          }
+        },
+        {
+          "client_id": "779886254106-q7dshs93m3k21l1te56hhqeqea64curd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjVyo3qqcZqlucSooOdSXMKoa1P2TiXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779886254106-q7dshs93m3k21l1te56hhqeqea64curd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
